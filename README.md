@@ -32,5 +32,5 @@
 
 ## PREVIEWS
 
-[!IMAGE LOGIN FORM](https://media.discordapp.net/attachments/822460798826971156/854662367932710932/Screenshot_3.png?width=421&height=406)
-[!IMAGE CHAT](https://media.discordapp.net/attachments/822460798826971156/854662364959735808/Screenshot_4.png?width=893&height=406)
+![IMAGE LOGIN FORM](https://media.discordapp.net/attachments/822460798826971156/854662367932710932/Screenshot_3.png?width=421&height=406)
+![IMAGE CHAT](https://media.discordapp.net/attachments/822460798826971156/854662364959735808/Screenshot_4.png?width=893&height=406)
