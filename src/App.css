@@ -1,0 +1,215 @@
+img {
+  border-radius: 50%;
+  height: 45px;
+  margin-top: -20px;
+  border: 2px solid black;
+}
+
+p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 500;
+  font-size: 25px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  overflow-wrap: break-word;
+}
+
+.msg {
+  display: flex;
+  padding: 20px 10px 0 20px;
+  margin: 20px;
+  border-radius: 3000px;
+  box-shadow: 0 0 10px rgb(164, 164, 164);
+  align-items: center;
+}
+
+.sent {
+  background-color: #603bbb;
+  color: white;
+  border-top-right-radius: 1000px;
+  flex-direction: row-reverse;
+  padding: 20px 20px 0 10px!important;
+  text-align: end;
+  float: right;
+}
+
+.received {
+  border: 1px solid lightgray;
+  background-color: #FAFAFA;
+  border-top-left-radius: 1000px;
+  float: left;
+}
+
+.sendMsg {
+  position: fixed;
+  display: flex;
+  width: 100%;
+  bottom: 0;
+  z-index: 1;
+  border-top: 1px solid lightgray;
+  margin-left: -5px;
+  padding: 10px;
+  padding-bottom: 30px;
+  background-color: #fafafa;
+}
+
+.msgs {
+  margin-bottom: 110px!important;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 775px) {
+  p {
+    font-size: 20px;
+  }
+  .sent {
+    padding: 10px 10px 0 10px;
+  }
+  .received {
+    padding: 10px 10px 0 10px;
+  }
+  img {
+    height: 35px;
+    margin-top: -10px;
+  }
+}
+
+@media (max-width: 500px) {
+  p {
+    font-size: 15px;
+  }
+  .sent {
+    padding: 7px 7px 0 7px;
+  }
+  .received {
+    padding: 7px 7px 0 7px;
+  }
+  img {
+    height: 30px;
+    margin-top: -7px;
+  }
+}
+  
+button {
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: 15px 0;
+  color: #fff;
+  font-size: 16px;
+  letter-spacing: 1px;
+  background: #603bbb;
+  cursor: pointer;
+}
+
+.login {
+  width: 100%;
+  min-height: 100vh;
+  padding: 0 20px;
+  background: #e9e9e9;
+  display: flex;
+}
+
+.login .loginContainer {
+  padding: 60px;
+  margin: auto;
+  width: 100%;
+  max-width: 520px;
+  min-height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: radial-gradient(
+    ellipse at left bottom,
+    rgba(22, 24, 47, 1) 0%,
+    rgba(38, 20, 72, 0.9) 59%,
+    rgba(17, 27, 75, 0.9) 100%
+  );
+  box-shadow: 0 50px 70px -20px rgba(0, 0, 0, 0.8);
+}
+
+.login .loginContainer label {
+  color: white;
+  margin: 14px 0;
+  display: block;
+  font-size: 22px;
+  line-height: 1;
+}
+
+.login .loginContainer input {
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 19px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+.login .loginContainer .btnContainer {
+  width: 100%;
+  padding: 24px 0;
+}
+
+.login .loginContainer .btnContainer p {
+  margin: 14px 0 0 0;
+  text-align: right;
+  color: #fff;
+  font-size: 16px!important;
+}
+
+.login .loginContainer .btnContainer p span {
+  color: yellow;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  margin-left: 5px;
+  cursor: pointer;
+  transition: all 400ms ease-in-out;
+}
+
+.login .loginContainer .btnContainer p span:hover {
+  color: red;
+}
+
+.login .loginContainer .errorMsg {
+  color: red;
+  font-size: 16px;
+}
+
+.hero {
+  width: 100%;
+  min-height: 100vh;
+  background: radial-gradient(
+    ellipse at left bottom,
+    rgba(22, 24, 47, 1) 0%,
+    rgba(38, 20, 72, 0.9) 59%,
+    rgba(17, 27, 75, 0.9) 100%
+  );
+}
+
+.hero nav {
+  background: #603bbb;
+  width: 100%;
+  padding: 20px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero nav h2 {
+  color: #fff;
+}
+
+.hero nav button {
+  width: 86px;
+  padding: 8px 0;
+  background: #3a2b58;
+}
+.headingg {
+  font-size: 50px;
+  left: 50%;
+  color: #fff
+}
