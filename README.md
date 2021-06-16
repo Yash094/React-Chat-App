@@ -21,7 +21,7 @@
 
  **2.** Download this repo and unzip it    |    or git clone it
 
- **3.** Install all of the packages with **`npm install`**  **
+ **3.** Install all of the packages with **`npm install`**  
 
  **4.** Fill in the parameters, RIGHT in `.env`
 
