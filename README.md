@@ -11,7 +11,7 @@
 ## FIREBASE SETUP
 
 [Firebase](https://firebase.google.com/)
-* Create a free cluster get your details and post it in .env file(Refer to example.env)
+* Create a free account get your details and post it in .env file(Refer to example.env)
 
 
 
