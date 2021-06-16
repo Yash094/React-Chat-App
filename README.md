@@ -2,7 +2,7 @@
 
 <a href=""><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source"></a>
 
-[LIVE](https://reactjs-chatapp.netlify.app/)
+# [LIVE VERSION HERE](https://reactjs-chatapp.netlify.app/)
 
 ## REQUIREMENTS 
 * FIREBASE ACCOUNT
