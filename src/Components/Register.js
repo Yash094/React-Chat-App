@@ -24,13 +24,9 @@ const Register = () => {
         <h1 className='headingg'>SIGN UP</h1>
 
     <label>EMAIL</label>
-    <input type='text' placeholder="email" id="mail" 
+    <input type='text' placeholder="Email" id="mail" 
             onChange={(e) => 
             setForm({...form, email: e.target.value})} autoFocus required/>
-      <label>USERNAME</label>
-    <input id='name' type='text' placeholder="email" id="mail" 
-           autoFocus required/>
-
     <label>PASSWORD</label>
     <input type="password"  placeholder="Password"
             onChange={(e) => 
