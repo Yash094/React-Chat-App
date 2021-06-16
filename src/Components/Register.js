@@ -33,7 +33,7 @@ const Register = () => {
             setForm({...form, password: e.target.value})} autoFocus required/>
     
     <div className='btnContainer'>
-    <button type='submit' >LOGIN</button>
+    <button type='submit' >SIGN UP</button>
     <button style={{marginTop:"10px"}}onClick={signIn} >SIGN UP WITH GOOGLE</button>
     <Link to='/login'>
     <p>Already Have A Account?</p>
