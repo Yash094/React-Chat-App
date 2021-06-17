@@ -13,7 +13,7 @@
 ## FIREBASE SETUP
 
 [Firebase](https://firebase.google.com/)
-* Create a free account get your details and post it in .env file(Refer to example.env)
+* Create a free account get your details and post it in firebase.js file
 
 
 
@@ -25,7 +25,7 @@
 
  **3.** Install all of the packages with **`npm install`**  
 
- **4.** Fill in the parameters, RIGHT in `.env`
+ **4.** Fill in the parameters, RIGHT in `firebase.js file`
 
  **5.** start the app with **`npm start`**
 
