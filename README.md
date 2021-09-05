@@ -32,6 +32,9 @@
 ## SUPPORT SERVER
 # JOIN OUR [DISCORD SERVER](https://discord.com/invite/emD44ZJaSA) IF YOU NEED HELP
 
+## SUPPORT US
+<a href="https://www.buymeacoffee.com/memerapi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28.7" width="121.8"></a>
+
 ## PREVIEWS
 
 ![IMAGE LOGIN FORM](https://media.discordapp.net/attachments/822460798826971156/854662367932710932/Screenshot_3.png?width=421&height=406)
