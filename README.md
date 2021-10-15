@@ -1,13 +1,12 @@
 # REACT & FIREBASE BASED CHAT APP
 
-<a href=""><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source"></a>
-
+<a align="center" href="https://www.buymeacoffee.com/memerapi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="180"></a>
 # [LIVE VERSION HERE](https://reactjs-chatapp.netlify.app/)
 
 ## REQUIREMENTS 
 * FIREBASE ACCOUNT
 * NODE JS
-* NPM
+* NPM 
 
 
 ## FIREBASE SETUP
@@ -31,9 +30,6 @@
 
 ## SUPPORT SERVER
 # JOIN OUR [DISCORD SERVER](https://discord.com/invite/emD44ZJaSA) IF YOU NEED HELP
-
-## SUPPORT US
-<a href="https://www.buymeacoffee.com/memerapi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28.7" width="121.8"></a>
 
 ## PREVIEWS
 
